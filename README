@@ -1,0 +1,6 @@
+## Empty Diem 5.1.3 project
+
+### To create a new Diem project:
+
+1. Clone the repository
+2. php lib/vendor/diem/install
